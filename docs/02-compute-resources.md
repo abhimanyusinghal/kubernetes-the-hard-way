@@ -42,7 +42,7 @@ Use public key to create all VMs
 
 There are two ways to SSH into the nodes:
 
-### 2. SSH Using SSH Client Tools
+## SSH Using SSH Client Tools
 
 Use your favourite SSH Terminal tool (putty).
 
