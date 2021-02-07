@@ -38,11 +38,7 @@ Use public key to create all VMs
   This is required for kubernetes networking to function correctly.
     > sysctl net.bridge.bridge-nf-call-iptables=1
 
-## SSH to the nodes
-
-There are two ways to SSH into the nodes:
-
-## SSH Using SSH Client Tools
+## SSH to the nodes Using SSH Client Tools
 
 Use your favourite SSH Terminal tool (putty).
 
