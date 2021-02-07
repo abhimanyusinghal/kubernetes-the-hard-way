@@ -32,7 +32,6 @@ Kubernetes The Hard Way guides you through bootstrapping a highly available Kube
 
 ## Labs
 
-* [Prerequisites](docs/01-prerequisites.md)
 * [Provisioning Compute Resources](docs/02-compute-resources.md)
 * [Installing the Client Tools](docs/03-client-tools.md)
 * [Provisioning the CA and Generating TLS Certificates](docs/04-certificate-authority.md)
