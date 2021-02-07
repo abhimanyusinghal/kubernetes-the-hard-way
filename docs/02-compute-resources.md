@@ -4,6 +4,19 @@ Note: You must have an Azure Subscription and be able to Create VMs on Azure Sub
 
 Do the below:
 
+Generate SSH Key Pair node
+`$ssh-keygen`
+
+Leave all settings to default.
+
+View the generated public key ID at:
+
+```
+$cat .ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD......8+08b vagrant@master-1
+```
+
+Use public key to create all VMs
 
 - Deploys 5 VMs - 2 Master, 2 Worker and 1 Loadbalancer with the name 'kubernetes-ha-* '
 - All VMs must use Ubuntu 18.04 
