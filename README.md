@@ -1,6 +1,6 @@
 > This tutorial is a modified version of the original developed by [Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way).
 
-# Kubernetes The Hard Way On VirtualBox
+# Kubernetes The Hard Way On Azure
 
 This tutorial walks you through setting up Kubernetes the hard way on Azure VMs.
 This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.
