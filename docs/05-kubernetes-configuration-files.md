@@ -14,6 +14,8 @@ Each kubeconfig requires a Kubernetes API Server to connect to. To support high 
 LOADBALANCER_ADDRESS=192.168.5.30
 ```
 
+Execute the following commands using bash
+
 ### The kube-proxy Kubernetes Configuration File
 
 Generate a kubeconfig file for the `kube-proxy` service:
